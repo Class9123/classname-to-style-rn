@@ -11,10 +11,10 @@
     "style"
   ],
   "dependencies": {
-    "twrnc": "^3.0.0" // or the latest version of twrnc
+    "twrnc": "*" // or the latest version of twrnc
   },
   "peerDependencies": {
-    "babel-core": "^7.0.0"
+    "babel-core": "*"
   },
   "author": "Your Name",
   "license": "MIT"
