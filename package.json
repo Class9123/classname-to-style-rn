@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-classname-to-twrnc-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "A Babel plugin that converts className to twrnc style in React Native",
   "keywords": [
