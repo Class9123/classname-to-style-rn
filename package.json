@@ -11,7 +11,7 @@
     "style"
   ],
   "dependencies": {
-    "twrnc": "*" // or the latest version of twrnc
+    "twrnc": "*" 
   },
   "peerDependencies": {
     "babel-core": "*"
